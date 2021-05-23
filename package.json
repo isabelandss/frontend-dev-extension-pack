@@ -18,11 +18,11 @@
         "next"
     ],
     "repository": {
-        "url": ""
+        "url": "https://github.com/isabelandss/frontend-dev-extension-pack"
     },
-    "homepage": "",
+    "homepage": "https://github.com/isabelandss/frontend-dev-extension-pack",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/isabelandss/frontend-dev-extension-pack/issues"
     },
     "extensionPack": [ 
         "publisher.extensionName",
