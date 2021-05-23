@@ -1,0 +1,32 @@
+{
+    "publisher": "isabelasantos",
+    "name": "frontend-dev-extension-pack",
+    "displayName": "frontend-dev-extension-pack",
+    "description": "a package with frontend extensions I like :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "javascript",
+        "typescript",
+        "frontend",
+        "react",
+        "next"
+    ],
+    "repository": {
+        "url": ""
+    },
+    "homepage": "",
+    "bugs": {
+        "url": ""
+    },
+    "extensionPack": [ 
+        "publisher.extensionName",
+        "eamodio.gitlens",
+        "wallabyjs.quokka-vscode"
+    ]
+}
